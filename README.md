@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
