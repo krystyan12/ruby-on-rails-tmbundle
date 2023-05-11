@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Elaborate Train and Predict mode docs arguments (#8137)
