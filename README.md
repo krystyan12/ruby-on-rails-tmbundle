@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Retry once for Docker CI failures (#8164)
