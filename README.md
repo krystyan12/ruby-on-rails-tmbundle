@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
