@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
