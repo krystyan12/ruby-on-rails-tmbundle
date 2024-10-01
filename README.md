@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add PR Summary step to Ultralytics Actions (#7675)
