@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
